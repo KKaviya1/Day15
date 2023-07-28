@@ -1,0 +1,8 @@
+F:\Day - 15\interfaceExample\interfaceExample\bin\Debug\interfaceExample.exe.config
+F:\Day - 15\interfaceExample\interfaceExample\bin\Debug\interfaceExample.exe
+F:\Day - 15\interfaceExample\interfaceExample\bin\Debug\interfaceExample.pdb
+F:\Day - 15\interfaceExample\interfaceExample\obj\Debug\interfaceExample.csproj.AssemblyReference.cache
+F:\Day - 15\interfaceExample\interfaceExample\obj\Debug\interfaceExample.csproj.SuggestedBindingRedirects.cache
+F:\Day - 15\interfaceExample\interfaceExample\obj\Debug\interfaceExample.csproj.CoreCompileInputs.cache
+F:\Day - 15\interfaceExample\interfaceExample\obj\Debug\interfaceExample.exe
+F:\Day - 15\interfaceExample\interfaceExample\obj\Debug\interfaceExample.pdb

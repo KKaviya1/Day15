@@ -1,0 +1,8 @@
+F:\Day - 15\abstractEx\abstractEx\bin\Debug\abstractEx.exe.config
+F:\Day - 15\abstractEx\abstractEx\bin\Debug\abstractEx.exe
+F:\Day - 15\abstractEx\abstractEx\bin\Debug\abstractEx.pdb
+F:\Day - 15\abstractEx\abstractEx\obj\Debug\abstractEx.csproj.AssemblyReference.cache
+F:\Day - 15\abstractEx\abstractEx\obj\Debug\abstractEx.csproj.SuggestedBindingRedirects.cache
+F:\Day - 15\abstractEx\abstractEx\obj\Debug\abstractEx.csproj.CoreCompileInputs.cache
+F:\Day - 15\abstractEx\abstractEx\obj\Debug\abstractEx.exe
+F:\Day - 15\abstractEx\abstractEx\obj\Debug\abstractEx.pdb
